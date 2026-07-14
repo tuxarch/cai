@@ -59,6 +59,7 @@ Homepage = "https://github.com/aliasrobotics/cai"
 Repository = "https://github.com/aliasrobotics/cai"
 Documentation = "https://aliasrobotics.github.io/cai/"
 Issues = "https://github.com/aliasrobotics/cai/issues"
+Research = "https://cybersecurityrobotics.com/research/cai-bug-bounty-cybersecurity-ai/"
 
 [project.optional-dependencies]
 voice = ["numpy>=2.2.0", "websockets>=15.0"]

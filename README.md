@@ -131,6 +131,7 @@ CAI_LICENSE_OFF=1 cai
 
 > [!NOTE]
 > Read the technical report: [CAI: An Open, Bug Bounty-Ready Cybersecurity AI](https://arxiv.org/pdf/2504.06017)
+> An [HTML reading edition with figures and references](https://cybersecurityrobotics.com/research/cai-bug-bounty-cybersecurity-ai/) is maintained by the Robot Cybersecurity Lab.
 >
 > For further readings, refer to our [impact](#-impact) and [CAI citation](#citation) sections.
 
@@ -242,6 +243,8 @@ CAI_LICENSE_OFF=1 cai
  | Humanoid Robots as Attack Vectors [![arXiv](https://img.shields.io/badge/arXiv-2509.14139-6bc7b5.svg)](https://arxiv.org/abs/2509.14139) | The Cybersecurity of a Humanoid Robot [![arXiv](https://img.shields.io/badge/arXiv-2509.14096-3e8b7a.svg)](https://arxiv.org/abs/2509.14096) | Evaluating Agentic Cybersecurity in Attack/Defense CTFs [![arXiv](https://img.shields.io/badge/arXiv-2510.17521-b31b1b.svg)](https://arxiv.org/abs/2510.17521) | CAIBench: A Meta-Benchmark for Evaluating Cybersecurity AI Agents [![arXiv](https://img.shields.io/badge/arXiv-2510.24317-b31b1b.svg)](https://arxiv.org/abs/2510.24317) |
 |---|---|---|---|
 | [](https://arxiv.org/pdf/2509.14139) | [](https://arxiv.org/pdf/2509.14096) | [](https://arxiv.org/pdf/2510.17521) | [](https://arxiv.org/pdf/2510.24317) |
+
+**Extended HTML reading editions:** [CAI](https://cybersecurityrobotics.com/research/cai-bug-bounty-cybersecurity-ai/) · [CAIBench](https://cybersecurityrobotics.com/research/caibench-cybersecurity-ai-benchmark/) · [Humanoid robots as attack vectors](https://cybersecurityrobotics.com/research/humanoids-as-attack-vectors/) · [The cybersecurity of a humanoid robot](https://cybersecurityrobotics.com/research/cybersecurity-of-a-humanoid-robot/) · [Hacking consumer robots in the AI era](https://cybersecurityrobotics.com/research/hacking-consumer-robots-ai-era/)
 
 ## PoCs
 | CAI with `alias0` on ROS message injection attacks in MiR-100 robot | CAI with `alias0` on API vulnerability discovery at Mercado Libre |
